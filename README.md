@@ -8,3 +8,5 @@ random
 os
 
 You can customize this code in order to use it / change it, and if you need any help with the code, or anything you think is a mistake please contact us so we can fix it and/or help you.
+
+# NOTE: Discord has suspended support for such bots, keeping this just for the memory
